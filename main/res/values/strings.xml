@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwitSplit</string>
+    <string name="hint_edittext">What\'s happening</string>
+    <string name="tweet">Tweet</string>
+</resources>
